@@ -1,31 +1,34 @@
 <div align="center">
 
 <!-- 头部 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=200&section=header&text=floaritay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Project-driven%20learner%20%7C%20AI%20Full-stack%20Explorer&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=200&section=header&text=floaritay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Project-driven%20learner%20%7C%20AI%20Full-stack%20Explorer&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- 打字动效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8b5cf6&center=true&vCenter=true&width=435&lines=Hi+I'm+floaritay+%F0%9F%91%8B;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Agent+%26+LangChain+Developer;ROS2+%26+Robotics+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hi+I'm+floaritay+%F0%9F%91%8B;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Agent+%26+LangChain+Developer;ROS2+%26+Robotics+Systems)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- 徽章行 -->
+<!-- 徽章行（动态） -->
 <a href="https://floaritay.github.io/">
-  <img src="https://img.shields.io/badge/📝_Blog-Learning_&_Projects-8b5cf6?style=for-the-badge&logo=blogger&logoColor=white" />
+  <img src="https://img.shields.io/badge/📝_Blog-Learning_&_Projects-00d4ff?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a href="https://github.com/floaritay?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_Repos-6-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/repos/floaritay?style=for-the-badge&logo=github&logoColor=white&color=00d4ff" />
 </a>
 <a href="https://github.com/floaritay?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/badge/⭐_Stars-7-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/floaritay?style=for-the-badge&logo=github&logoColor=white&color=ffd700&label=⭐%20Stars" />
+</a>
+<a href="https://github.com/floaritay">
+  <img src="https://img.shields.io/github/followers/floaritay?style=for-the-badge&logo=github&logoColor=white&color=00d4ff" />
 </a>
 <a href="https://github.com/floaritay/floaritay">
-  <img src="https://img.shields.io/badge/📅_Since-Nov_2024-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📅_Since-Nov_2024-00d4ff?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
 <!-- 波浪分隔 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
@@ -33,7 +36,7 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/📝_Learning_&_Projects-Visit_Now-8b5cf6?style=for-the-badge&logo=blogger&logoColor=white)](https://floaritay.github.io/)
+[![Blog](https://img.shields.io/badge/📝_Learning_&_Projects-Visit_Now-00d4ff?style=for-the-badge&logo=blogger&logoColor=white)](https://floaritay.github.io/)
 
 <br/>
 
@@ -46,7 +49,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 ## 🔭 当前方向
@@ -61,7 +64,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 ## 🛠 技术栈
@@ -103,7 +106,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 ## 🚀 精选项目
@@ -164,56 +167,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- 总览 -->
-![Repos](https://img.shields.io/badge/Repos-6-0D1117?style=flat&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars-7-FFD700?style=flat)
-![Since-2024](https://img.shields.io/badge/Since-Nov_2024-0D1117?style=flat)
-![Notes](https://img.shields.io/badge/Notes-50+-0D1117?style=flat)
-
-<br/>
-
-<!-- 贪吃蛇贡献动画 -->
-**Contribution Snake**
-
-![Snake animation](https://raw.githubusercontent.com/floaritay/floaritay/output/github-snake-dark.svg)
-
-<br/>
-
-<!-- 语言分布 -->
-**Language Breakdown**
-
-`Python 95.6%` · `Jupyter Notebook 1.2%` · `HTML 3.1%`
-
-<br/>
-
-<!-- 贡献活动图 -->
-[![floaritay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=floaritay&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<!-- 项目主题标签 -->
-**Topics**
-
-![RAG](https://img.shields.io/badge/-RAG-4A90D9?style=flat)
-![YOLO](https://img.shields.io/badge/-YOLO-FF6F00?style=flat)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
-![FAISS](https://img.shields.io/badge/-FAISS-0054A6?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=80&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 <div align="center">
@@ -222,10 +176,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=floaritay&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=floaritay&color=00d4ff&style=flat)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8b5cf6,100:0D1117&height=100&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00d4ff,100:0D1117&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
