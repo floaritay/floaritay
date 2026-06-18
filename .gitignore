@@ -1,0 +1,13 @@
+# Generated artifacts (deployed to output branch)
+dist/
+profile-3d/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
